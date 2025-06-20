@@ -1,13 +1,13 @@
 # Credit-Card-Risk-Protection
 This project builds a predictive model to evaluate credit card application approvals using machine learning techniques. By analyzing application data through exploratory data analysis (EDA), data cleaning (mean/median imputation, Winsorization), and logistic regression, the model identifies key factors influencing approval decisions.
 
-Importance of the Project
+Importance of the Project  -->
 
 Predicting good credit card clients is crucial for banks to minimize financial risk and maximize profits. Accurate prediction of credit card approval helps banks identify high-risk applicants and make informed lending decisions. This project aims to improve the credit card approval process for banks in India by using machine learning models to predict applicant creditworthiness.
 
 There is currently a gap in the use of machine learning for credit card approval prediction in the Indian banking sector. This project fills that gap by developing a predictive model tailored to Indian banking data.
 
-Hypothesis
+Hypothesis -->
 
 Annual income and employment status are strong indicators of credit card approval.
 
@@ -15,7 +15,7 @@ Machine learning models can identify meaningful patterns in customer data relate
 
 The model can achieve at least 80% accuracy in predicting approvals.
 
-Data Analysis Approach
+Data Analysis Approach -->
 
 Data Cleaning and Preprocessing: Merge datasets, handle missing values, convert datatypes, and address outliers.
 
@@ -25,7 +25,7 @@ Feature Engineering: Transform categorical features into numerical form for mode
 
 Data Visualization: Use plots to understand data distribution and relationships.
 
-Machine Learning Approach
+Machine Learning Approach -->
 
 Model Selection: Train several models including Logistic Regression, Decision Trees, Random Forests, and Neural Networks.
 
@@ -33,7 +33,7 @@ Model Evaluation: Use accuracy, precision, recall, and F1-score metrics to asses
 
 Model Comparison and Tuning: Select the best model and tune hyperparameters for optimal accuracy.
 
-Summary of Results
+Summary of Results -->
 
 Logistic Regression achieved approximately 90% accuracy on the test set.
 
