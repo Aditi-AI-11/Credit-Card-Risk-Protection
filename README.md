@@ -41,7 +41,7 @@ The model showed strong precision for the majority class but struggled with mino
 
 Handling imbalance and exploring additional models could further improve results.
 
-How to Use This Project
+How to Use This Project -->
 
 Load and merge the provided datasets.
 
@@ -51,7 +51,7 @@ Train the machine learning model on training data and evaluate on test data.
 
 Interpret model metrics to understand performance and limitations.
 
-Future Directions
+Future Directions -->
 
 Implement techniques like SMOTE or class weighting to address class imbalance.
 
